@@ -1,4 +1,6 @@
-# comp3005_a3_q1
+## comp3005_a3_q1
+
+# YOUTUBE LINK:
 https://youtu.be/aD6tXrdhsMM
 
 Instructions to setup: 
