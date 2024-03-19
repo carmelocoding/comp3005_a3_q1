@@ -49,3 +49,15 @@ Connects to the database and runs a query overwrites an email string with anothe
 removes a student from the table
 
 Connects to the database and runs a query to deletes a student and their info from the table. This is done by finding the student with the given Id. (? is replaced by studentId using pstmt.setInt())
+
+
+
+# Contents:
+
+a3_students.sql: sql file that creates the students table
+
+Main.java: code to put into the maven based Java program as the "Main" class
+
+DBExampleComp3005.zip: all contents of the java program if needed in addition to Main.java by itself
+
+
