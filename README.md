@@ -3,6 +3,9 @@ https://youtu.be/aD6tXrdhsMM
 
 Instructions to setup: 
 
+If JDBC java setup is not done, follow video till 9 minutes.
+https://brightspace.carleton.ca/d2l/le/content/264064/viewContent/3673226/View
+
 Create database "university" in postgre (pgadmin4)
 
 Use query tool for university and put my create table sql code (a3_students.sql)
