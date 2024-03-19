@@ -21,7 +21,7 @@ Download my java jbdc code and run it with your own postgre details (your passwo
 
 Run main and make run whatever functions you'd like to try (examples of how are commented out)
 
-
+Note: checking students table can be done in pgAdmin by right clicking the "students" listing on the left side bar and selecting "view/edit data -> all rows", which gives a select all query as well.
 
 # Function purpose and how it works
 
