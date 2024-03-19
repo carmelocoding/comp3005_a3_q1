@@ -10,7 +10,7 @@ public class Main
     {
         String url = "jdbc:postgresql://localhost:5432/university";
         String user = "postgres";
-        String password = "MassiBo123";
+        String password = "";
 
 
         try{
